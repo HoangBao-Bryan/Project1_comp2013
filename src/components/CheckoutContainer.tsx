@@ -21,10 +21,10 @@ export default function CheckoutContainer({
     <div
       className="CheckoutContainer"
       style={{
-        border: "1px solid #dee2e6",
+        border: "1px solid #d5dce3",
         padding: "1rem",
         borderRadius: "8px",
-        background: "#fdfdfe",
+        background: "#f7f7f7",
       }}
     >
       <h2>Checkout Cart</h2>
@@ -48,8 +48,8 @@ export default function CheckoutContainer({
             style={{
               width: "100%",
               padding: "0.5rem",
-              background: "#dc3545",
-              color: "#fff",
+              background: "#cd2334",
+              color: "#ffffff",
               border: "none",
               borderRadius: "4px",
               cursor: "pointer",

@@ -20,7 +20,7 @@ export default function CheckoutCard({
         display: "flex",
         alignItems: "center",
         gap: "1rem",
-        borderBottom: "1px solid #eee",
+        borderBottom: "1px solid #dfdcdc",
         paddingBottom: "0.5rem",
       }}
     >
@@ -48,8 +48,8 @@ export default function CheckoutCard({
       <button
         onClick={onRemove}
         style={{
-          background: "#ff4d4d",
-          color: "#fff",
+          background: "#f43e3e",
+          color: "#ffffff",
           border: "none",
           padding: "0.3rem 0.6rem",
           borderRadius: "4px",

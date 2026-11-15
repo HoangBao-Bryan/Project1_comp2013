@@ -56,7 +56,7 @@ export default function ItemCard({
           width: "100%",
           marginTop: "0.5rem",
           padding: "0.4rem",
-          background: isOutOfStock || itemQuantity === 0 ? "#ccc" : "#007bff",
+          background: isOutOfStock || itemQuantity === 0 ? "#d1caca" : "#007bff",
           color: "#fff",
           border: "none",
           borderRadius: "4px",
